@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>画作赏析</title>
+      <link href="/title.html"/>
+      <url>/title.html</url>
+      
+        <content type="html"><![CDATA[<p>这是一篇测试发布，测试图片是否显示如下：<br><img src="/medias/featureimages/关于绘画.jpg" alt="画"><br>再来一幅画：<br><img src="/medias/featureimages/关于绘画.jpg" alt="画"> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 感悟 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 油画 </tag>
+            
+            <tag> 绘画 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于绘画</title>
       <link href="/title.html"/>
       <url>/title.html</url>
